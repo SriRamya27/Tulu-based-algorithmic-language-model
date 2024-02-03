@@ -1,4 +1,4 @@
-# Natural Language Learning by Bots using Audio Text based limited Dataset for Tulu
+# Tulu based algorithmic model
 ## Our project aims to solve the following problems:
 
 1. Creating a basic form of the three-source model.
